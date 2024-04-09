@@ -38,7 +38,7 @@ POST request:
 #### Default Prediction:
 Able to handle a single request on average in 190s, resulting in 18-20 requests per hour.
 #### Early Repayment prediction:
-Able to handle a single request on average in 135, resulting in 26-28 requests per minute.
+Able to handle a single request on average in 135s, resulting in 26-28 requests per hour.
 
 #### Note:
 For any questions please feel free to contact me on LinkedIn/Gmail.
